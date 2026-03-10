@@ -5,7 +5,7 @@
 Este projeto apresenta o **Aureon Finance**, um dashboard analítico desenvolvido em **Power BI** para **gestão financeira integrada**. O objetivo é consolidar receitas, despesas, empréstimos e investimentos em uma visão centralizada, facilitando o planejamento estratégico e a tomada de decisão financeira.
 
 
-🔎 [Projeto Interativo](https://app.powerbi.com/view?r=eyJrIjoiNDFjMzBkNzAtMmY3Zi00ZTdlLTkyMDktZmY3NzQ5Mzc5Y2NiIiwidCI6IjIzY2FjN2VlLWYxZDgtNDMzOS1hYTdiLTc4MWFhOWY5MjI1YiJ9)
+🔎 [Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiNDFjMzBkNzAtMmY3Zi00ZTdlLTkyMDktZmY3NzQ5Mzc5Y2NiIiwidCI6IjIzY2FjN2VlLWYxZDgtNDMzOS1hYTdiLTc4MWFhOWY5MjI1YiJ9)
 
 ---
 
