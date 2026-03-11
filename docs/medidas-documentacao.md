@@ -1,4 +1,4 @@
-# Documentação de Medidas - Projeto Aureon Finance
+# Documentação das Medidas: Projeto Financeiro — Aureon Finance
 
 Este documento lista todas as medidas criadas no modelo Power BI, suas regras de negócio, dependências e retornos esperados.
 
