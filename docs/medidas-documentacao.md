@@ -12,7 +12,7 @@ Este documento lista todas as medidas criadas no modelo Power BI, suas regras de
 - 💰 [Receita](#-medidas-de-receita)
 - 💸 [Despesas](#-medidas-de-despesas)
 - 💱 [Empréstimos](#-medidas-de-empréstimos)
-- 💲 [Investimentos](#-medidas-de-investimentos)
+- 💵 [Investimentos](#-medidas-de-investimentos)
 - 💬 [Títulos](#-medidas-de-títulos)
 
 ---
@@ -445,7 +445,7 @@ RETURN
     )
 ```
 
-## 💲 Medidas de Investimentos
+## 💵 Medidas de Investimentos
 [← Topo](#documentação-das-medidas)
 <br>
 
