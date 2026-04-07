@@ -8,16 +8,16 @@ Este documento lista todas as medidas criadas no modelo Power BI, suas regras de
 <br>
 
 Índice das Medidas:
-- 🚛 [Transações](#-medidas-de-transações)
-- 🚛 [Receita](#-medidas-de-receita)
-- 🚚 [Despesas](#-medidas-de-despesas)
-- 💰 [Empréstimos](#-medidas-de-empréstimos)
-- 🧮 [Investimentos](#-medidas-de-investimentos)
-- 🧮 [Títulos](#-medidas-de-títulos)
+- 💼 [Transações](#-medidas-de-transações)
+- 💰 [Receita](#-medidas-de-receita)
+- 💸 [Despesas](#-medidas-de-despesas)
+- 💱 [Empréstimos](#-medidas-de-empréstimos)
+- 💲 [Investimentos](#-medidas-de-investimentos)
+- 💬 [Títulos](#-medidas-de-títulos)
 
 ---
 
-## 🚛 Medidas de Transações
+## 💼 Medidas de Transações
 [← Topo](#documentação-das-medidas)
 <br>
 
@@ -55,7 +55,7 @@ RETURN
     _Resultado
 ```
 
-## 🚛 Medidas de Receita
+## 💰 Medidas de Receita
 [← Topo](#documentação-das-medidas)
 <br>
 
@@ -257,7 +257,7 @@ RETURN
     )
 ```
 
-## 🚛 Medidas de Despesas
+## 💸 Medidas de Despesas
 [← Topo](#documentação-das-medidas)
 <br>
 
@@ -402,7 +402,7 @@ RETURN
     )
 ```
 
-## 🚛 Medidas de Empréstimos
+## 💱 Medidas de Empréstimos
 [← Topo](#documentação-das-medidas)
 <br>
 
@@ -445,7 +445,7 @@ RETURN
     )
 ```
 
-## 🚛 Medidas de Investimentos
+## 💲 Medidas de Investimentos
 [← Topo](#documentação-das-medidas)
 <br>
 
@@ -488,7 +488,7 @@ RETURN
     )
 ```
 
-## 🚛 Medidas de Títulos
+## 💬 Medidas de Títulos
 [← Topo](#documentação-das-medidas)
 <br>
 
