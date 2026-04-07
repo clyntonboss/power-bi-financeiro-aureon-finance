@@ -11,7 +11,7 @@ Este documento lista todas as medidas criadas no modelo Power BI, suas regras de
 - 🚛 [Transações](#-medidas-de-transações)
 - 🚛 [Receita](#-medidas-de-receita)
 - 🚚 [Despesas](#-medidas-de-despesas)
-- 💰 [Empréstimos](#-medida-de-empréstimos)
+- 💰 [Empréstimos](#-medidas-de-empréstimos)
 - 🧮 [Investimentos](#-medidas-de-investimentos)
 - 🧮 [Títulos](#-medidas-de-títulos)
 
